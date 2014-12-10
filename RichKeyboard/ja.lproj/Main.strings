@@ -1,0 +1,9 @@
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "6Dc-Nc-YaT"; */
+"6Dc-Nc-YaT.title" = "設定";
+
+/* Class = "IBUILabel"; text = "Buy add on"; ObjectID = "87o-Pc-tpA"; */
+"87o-Pc-tpA.text" = "アドオン購入";
+
+/* Class = "IBUILabel"; text = "Feedback"; ObjectID = "8dU-oe-fRj"; */
+"8dU-oe-fRj.text" = "フィードバック";

@@ -1,0 +1,15 @@
+PODS:
+  - FTFoundation (2.2.0):
+    - FTFoundation/FTCFAutorelease
+  - FTFoundation/FTCFAutorelease (2.2.0)
+  - FTUIKit (2.0.1)
+
+DEPENDENCIES:
+  - FTFoundation
+  - FTUIKit
+
+SPEC CHECKSUMS:
+  FTFoundation: d0eb44c447f8572c1196edbb7698ea4a34eeef5c
+  FTUIKit: a8092318d3f5187a8e3509ce513c51ffb6fd3571
+
+COCOAPODS: 0.34.4

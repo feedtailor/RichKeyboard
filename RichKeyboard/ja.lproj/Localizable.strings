@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  RichKeyboard
+
+  Created by itok on 2014/10/08.
+  Copyright (c) 2014年 feedtailor Inc. All rights reserved.
+*/
+
+"_waiting_" = "接続待ち...";
+"_connected_" = "接続済み";
+"_bluetooth_error_" = "Bluetoothの設定を確認してください";
+"_error_" = "エラー";
+"_dismiss_" = "閉じる";
+"_searching_" = "検索中...";
+"_connecting_" = "接続中...";
+
+"_help_waiting_" = "別のデバイスで、キーボードを富豪Keyboardに切り替え、デバイス一覧からこのデバイスを選択してください\n\nBluetoothで接続するため、必ずキーボード設定の「フルアクセスを許可」を有効にしてください";
+"_help_searching_" = "別のデバイスで、富豪Keyboardアプリを立ち上げてください";
+"_help_select_" = "接続するデバイスを選択してください";

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  RichKeyboard
+
+  Created by itok on 2014/10/08.
+  Copyright (c) 2014年 feedtailor Inc. All rights reserved.
+*/
+
+"_waiting_" = "Waiting connection...";
+"_connected_" = "Connected";
+"_bluetooth_error_" = "Please check Bluetooth setting.";
+"_error_" = "Error";
+"_dismiss_" = "Dismiss";
+"_searching_" = "Searching...";
+"_connecting_" = "Connecting...";
+
+"_help_waiting_" = "On the another device, change keyboard to RichKeyboard and select this device in the list.\n\nTo connect by Bluetooth, please turn on \"Allow Full Access\" in keyboard setting.";
+"_help_searching_" = "Launch RichKeyboard.app on the another device.";
+"_help_select_" = "Select a device to connect.";
