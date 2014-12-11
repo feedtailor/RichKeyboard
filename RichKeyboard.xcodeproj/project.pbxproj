@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		23CB12CC19514E52AC6665DF /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7539C8273F2474AB73916C0 /* libPods.a */; };
-		5726316C19E77ACB00DCADE5 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5726316B19E77ACB00DCADE5 /* StoreKit.framework */; };
 		5730307319E4CCB000FF640A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5730307219E4CCB000FF640A /* main.m */; };
 		5730307619E4CCB000FF640A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5730307519E4CCB000FF640A /* AppDelegate.m */; };
 		5730307919E4CCB000FF640A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5730307819E4CCB000FF640A /* ViewController.m */; };
@@ -65,7 +64,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		5726316B19E77ACB00DCADE5 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		5730306D19E4CCB000FF640A /* RichKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RichKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5730307119E4CCB000FF640A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5730307219E4CCB000FF640A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -103,7 +101,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				23CB12CC19514E52AC6665DF /* libPods.a in Frameworks */,
-				5726316C19E77ACB00DCADE5 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -223,7 +220,6 @@
 		76A0A625316F47BAB3EA88F4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5726316B19E77ACB00DCADE5 /* StoreKit.framework */,
 				A7539C8273F2474AB73916C0 /* libPods.a */,
 			);
 			name = Frameworks;
@@ -304,7 +300,7 @@
 						DevelopmentTeam = WXBV9PB43K;
 						SystemCapabilities = {
 							com.apple.InAppPurchase = {
-								enabled = 1;
+								enabled = 0;
 							};
 						};
 					};
